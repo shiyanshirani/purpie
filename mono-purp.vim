@@ -1,6 +1,9 @@
 
 """
 " Name: mono-purp.vim
+" Author: Shiyan Shirani
+" Date Created: 20th October 2022
+" Date Updated: 20th October 2022
 """
 
 set background=dark

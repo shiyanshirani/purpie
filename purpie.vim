@@ -1,6 +1,6 @@
 
 """
-" Name: mono-purp.vim
+" Name: purpie.vim
 " Author: Shiyan Shirani
 " Date Created: 20th October 2022
 " Date Updated: 20th October 2022
